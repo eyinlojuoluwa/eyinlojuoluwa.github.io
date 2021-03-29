@@ -2,7 +2,7 @@
 layout: page
 excerpt: "About Me..."
 ---
-
+## About me
 <div align="justify"> 
 Adekunle is a current graduate student of the Department of Computer Science and Technology in the school of Information Science and Technology, Zhejiang Sci-Tech University, Hangzhou City, Zhejiang Province, China, under the supervision of Professor Shu Ting.
 In 2014, my BSc(Ed) Computer Science was conferred to me by Tai Solarin University of Education Ijagun, Ijebu Ode, Nigeria, under the supervision of Dr. Ogunyinka.
