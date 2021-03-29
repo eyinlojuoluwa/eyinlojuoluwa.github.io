@@ -2,7 +2,11 @@
 layout: page
 excerpt: "About Me..."
 ---
-Let's talk about me for a few minutes!!!
+# DAILY MANNA: What have you achieved today???
+
+<marquee behavior="scroll" direction="left">DAILY MANNA: What have you achieved today???</marquee>
+
+
 ## About me
 <div align="justify"> 
 Adekunle is a current graduate student of the Department of Computer Science and Technology in the school of Information Science and Technology, Zhejiang Sci-Tech University, Hangzhou City, Zhejiang Province, China, under the supervision of Professor Shu Ting.
