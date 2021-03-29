@@ -2,7 +2,6 @@
 layout: page
 excerpt: "About Me..."
 ---
-# DAILY MANNA: What have you achieved today???
 
 <marquee behavior="scroll" direction="left">DAILY MANNA: What have you achieved today???</marquee>
 
