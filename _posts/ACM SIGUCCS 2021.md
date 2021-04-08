@@ -1,3 +1,14 @@
+
+---
+layout: post
+title: ACM SIGUCCS 2021 Conference
+excerpt: "Conference"
+modified: 4/8/2021, 11:54:24
+tags: [intro, beginner, jekyll, tutorial]
+comments: true
+category: blog
+---
+
 ### ACM SIGUCCS 2021 Annual Conference
 I attended ACM SIGUCCS 2021 Annual Conference held between March 15, 2021, to April 30, 2022, virtually. Unfortunately, I didn't participate until April 7, 2021, because of my schedule.
 I  attended the following series;
