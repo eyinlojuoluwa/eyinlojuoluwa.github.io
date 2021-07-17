@@ -1,37 +1,6 @@
----
-layout: slide
-title: Example Reveal.js Presentation Deck
-excerpt: A sample file showing the correct markup for creating a Reveal.js slide deck"
-theme: simple
-transition: convex
-tags: [presentation]
-category: presentation
----
-<section data-markdown>
-
-# Reveal.js and Jekyll Academic
 
 
-</section>
+- [A. A. Ajibode, T. Shu and Z. Ding, "Evolving Suspiciousness Metrics From Hybrid Data Set for Boosting a
+Spectrum Based Fault Localization," in IEEE Access, vol. 8, pp. 198451-198467, 2020, doi: 10.1109/ACCESS.2020.3035413.](https://drive.google.com/file/d/1J4Tb-Bp5geYosHp9vILNBaJThIEekReX/view?usp=sharing)
 
-<section data-markdown>
-## HTML or Markdown
-Reveal.js works with either. Use whatever you are more comfortable with.
-
-</section>
-
-<section data-markdown>
-## Works Anywhere
-
-By creating presentations using Reveal.js and hosting them on your Jekyll Academic site you will have access to them anywhere. No need to worry about software compatibility, no need to sign in to email accounts on public machines. Simply load your website and select the presentation.
-
-</section>
-<section data-markdown>
-## More Information
-
-Jekyll Academic includes everything that you need in order to make Reveal.js work. Copy this file and edit it to begin making your own slide deck.  
-
-For more information about all of the options available in Reveal.js please the [Reveal.js Demo Website](https://lab.hakim.se/reveal-js/#/)
-
-
-</section>
+- Kabir Sulaiman Said, Liming Nie, Adekunle Akinjobi Ajibode, and Xueyi Zhou. 2020. GUI testing for mobile applications: objectives, approaches and challenges. In 12th Asia-Pacific Symposium on Internetware (Internetware’20), May 12–14, 2021, Singapore, Singapore. ACM, New York, NY, USA, 10 pages. https://doi.org/10.1145/3457913.3457931
