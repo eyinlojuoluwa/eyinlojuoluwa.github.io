@@ -18,8 +18,8 @@ He has been a teacher since the year 2005, and have mentored many students at bo
 Currently, my research area is Software Engineering. I am hoping to work on the following in the future:
 - Information and Communication Technology for Development (ICT4D)
 - Social computing
-- Machine Learning
-- Human-Computer Interaction
+- Crisis/Pandemic Informatics
+- Software Engineering
 - Computer Education
 - Educational Technology
 
