@@ -1,8 +1,3 @@
----
-layout: page
-excerpt: "About Me..."
----
-
 <marquee behavior="scroll" direction="left">DAILY MANNA: What have you achieved today???</marquee>
 
 
@@ -28,5 +23,8 @@ Currently, my research area is Software Engineering. I am hoping to work on the 
 Spectrum Based Fault Localization," in IEEE Access, vol. 8, pp. 198451-198467, 2020, doi: 10.1109/ACCESS.2020.3035413.](https://drive.google.com/file/d/1J4Tb-Bp5geYosHp9vILNBaJThIEekReX/view?usp=sharing)
 - Kabir Sulaiman Said, Liming Nie, Adekunle Akinjobi Ajibode, and Xueyi Zhou. 2020. GUI testing for mobile applications: objectives, approaches and challenges. In 12th Asia-Pacific Symposium on Internetware (Internetware’20), May 12–14, 2021, Singapore, Singapore. ACM, New York, NY, USA, 10 pages. https://doi.org/10.1145/3457913.3457931
 
-## Ongoing Research
+## Submitted Paper
 Combining multiple ranking metrics to support Fault Localization,  to be submitted to Journal of Information Science
+
+## Ongoing Research
+I am currently working on "A simple approach to enhance fault localization" as my Master thesis research topic
