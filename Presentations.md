@@ -1,4 +1,7 @@
-
+---
+layout: presentation-post-index
+title: Presentations
+---
 
 
 - [A. A. Ajibode, T. Shu and Z. Ding, "Evolving Suspiciousness Metrics From Hybrid Data Set for Boosting a
