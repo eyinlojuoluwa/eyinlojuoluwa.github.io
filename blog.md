@@ -1,7 +1,4 @@
----
-layout: post-index
-title: All Blog Posts
----
+
 
 ### ACM SIGUCCS 2021 Annual Conference
 I attended ACM SIGUCCS 2021 Annual Conference held between March 15, 2021, to April 30, 2022, virtually. Unfortunately, I didn't participate until April 7, 2021, because of my schedule.
