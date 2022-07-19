@@ -16,12 +16,13 @@ He has been a teacher since 2005 and has mentored many students at pre-school, h
 
 ## Research Interest
 Currently, my research area is Software Engineering. I am hoping to work on the following in the future:
+- Software Engineering
+- Computer Education
+- Learning Science and Analytics
 - Information and Communication Technology for Development (ICT4D)
 - Social computing
 - Crisis/Pandemic Informatics
-- Software Engineering
-- Computer Education
-- Learning Science and Technology
+
 
 ## Publications
 - [<strong> A. A. Ajibode</strong>, T. Shu and Z. Ding, "Evolving Suspiciousness Metrics From Hybrid Data Set for Boosting a
