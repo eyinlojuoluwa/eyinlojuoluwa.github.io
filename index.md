@@ -21,7 +21,7 @@ Currently, my research area is Software Engineering. I am hoping to work on the 
 - Crisis/Pandemic Informatics
 - Software Engineering
 - Computer Education
-- Educational Technology
+- Learning Science and Technology
 
 ## Publications
 - [<strong> A. A. Ajibode</strong>, T. Shu and Z. Ding, "Evolving Suspiciousness Metrics From Hybrid Data Set for Boosting a
