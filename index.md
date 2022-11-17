@@ -9,19 +9,18 @@ excerpt: "About Me..."
 ## About me
 <div align="justify"> 
 Adekunle earns his Master's degree from the Department of Computer Science and Technology in the school of Information Science and Technology, Zhejiang Sci-Tech University, Hangzhou City, Zhejiang Province, China, under the supervision of Professor Shu Ting.
-He received his BSc(Ed) in Computer Science from Tai Solarin University of Education Ijagun, Ijebu Ode, Nigeria, under Dr Ogunyinka in 2014.
-He also received NCE Computer Science and Mathematics from Federal College of Education Osiele, Abeokuta, Ogun State, Nigeria. 
+He received his BSc(Ed) in Computer Science from Tai Solarin University of Education Ijagun, Ijebu Ode, Nigeria, under the supervision of Dr Ogunyinka in 2014.
+He also received Nigerian Certificate in Education, a teacher's training certificate in Computer Science and Mathematics from the Federal College of Education Osiele, Abeokuta, Ogun State, Nigeria. 
 He has been a teacher since 2005 and has mentored many students at pre-school, high school, and post-secondary school levels. 
 </div>
 
 ## Research Interest
-Currently, my research area is Software Engineering. I am hoping to work on the following in the future:
-- Software Engineering
+Currently, I am researching in a broad area of Software Engineering. Similarly, I would be extending my research tentacle to the following fields:
 - Computer Education
+- Data Science Application
+- Deep Learning/Machine Learning Applications
 - Learning Science and Analytics
-- Information and Communication Technology for Development (ICT4D)
 - Social computing
-- Crisis/Pandemic Informatics
 
 
 ## Publications
@@ -32,6 +31,7 @@ Spectrum Based Fault Localization," in IEEE Access, vol. 8, pp. 198451-198467, 2
 
 - [<strong> Ajibode, Adekunle</strong>, Ting Shu, Kabir Said, and Zuohua Ding. 2022. "A Fault Localization Method Based on Metrics Combination" Mathematics 10, no. 14: 2425. https://doi.org/10.3390/math10142425](https://www.researchgate.net/publication/361930314_A_Fault_Localization_Method_Based_on_Metrics_Combination)
 
-## Submitted Paper
-Effectively combining risk evaluation metrics for precise fault localization
+- [<strong> Ajibode, Adekunle</strong>, Ting Shu, Laghari Gulsher, and Zuohua Ding. 2022. "Effectively Combining Risk Evaluation Metrics for Precise Fault Localization" Mathematics 10, no. 21: 3924. https://doi.org/10.3390/math10213924](https://www.mdpi.com/2227-7390/10/21/3924)
+
+
 
