@@ -8,19 +8,19 @@ excerpt: "About Me..."
 
 ## About me
 <div align="justify"> 
-Adekunle earns his Master's degree from the Department of Computer Science and Technology in the school of Information Science and Technology, Zhejiang Sci-Tech University, Hangzhou City, Zhejiang Province, China, under the supervision of Professor Shu Ting.
-He received his BSc(Ed) in Computer Science from Tai Solarin University of Education Ijagun, Ijebu Ode, Nigeria, under the supervision of Dr Ogunyinka in 2014.
-He also received Nigerian Certificate in Education, a teacher's training certificate in Computer Science and Mathematics from the Federal College of Education Osiele, Abeokuta, Ogun State, Nigeria. 
-He has been a teacher since 2005 and has mentored many students at pre-school, high school, and post-secondary school levels. 
+Ajibode Adekunle is currently a PhD student in the Department of Computer Science at Queen's University, Kingston, Canada, specializing in optimizing the release management of Natural Language Processing models. He is conducting his research in the Maintenance, Construction and Intelligence of Software/Software Analysis and Intelligence Lab (MCIS/SAIL) under the supervision of Professor Bram Adams.
+He earned his Master's degree from the Department of Computer Science and Technology in the School of Information Science and Technology at Zhejiang Sci-Tech University, Hangzhou City, Zhejiang Province, China, under the supervision of Professor Shu Ting. His MSc thesis is titled "Spectrum-based Fault Localization Method Using Formulas Combination."
+He received his BSc(Ed) in Computer Science from Tai Solarin University of Education, Ijagun, Ijebu Ode, Nigeria, under the supervision of Dr. Ogunyinka in 2014.
+Ajibode also holds a Nigerian Certificate in Education, a teacher's training certificate in Computer Science and Mathematics from the Federal College of Education, Osiele, Abeokuta, Ogun State, Nigeria.
+He has been a teacher since 2005 and has mentored many students at the pre-school, high school, and post-secondary school levels. 
 </div>
 
 ## Research Interest
-Currently, I am researching in a broad area of Software Engineering. Similarly, I would be extending my research tentacle to the following fields:
-- Computer Education
-- Data Science Application
-- Deep Learning/Machine Learning Applications
-- Learning Science and Analytics
-- Social computing
+My research focuses on various aspects of Software Engineering, particularly in:
+- Large Language Model Releases
+- Release Engineering
+- Release Management
+- Repository Mining
 
 
 ## Publications
@@ -32,6 +32,11 @@ Spectrum Based Fault Localization," in IEEE Access, vol. 8, pp. 198451-198467, 2
 - [<strong> Ajibode, Adekunle</strong>, Ting Shu, Kabir Said, and Zuohua Ding. 2022. "A Fault Localization Method Based on Metrics Combination" Mathematics 10, no. 14: 2425. https://doi.org/10.3390/math10142425](https://www.researchgate.net/publication/361930314_A_Fault_Localization_Method_Based_on_Metrics_Combination)
 
 - [<strong> Ajibode, Adekunle</strong>, Ting Shu, Laghari Gulsher, and Zuohua Ding. 2022. "Effectively Combining Risk Evaluation Metrics for Precise Fault Localization" Mathematics 10, no. 21: 3924. https://doi.org/10.3390/math10213924](https://www.mdpi.com/2227-7390/10/21/3924)
+  
+- [<strong> Ajibode, Adekunle</strong>, Apedo Yvon, Ajibode Temitope. 2024. "Systematic literature review on forecasting and prediction of technical debt evolution"](https://arxiv.org/abs/2406.12026)
+
+- [<strong> Ajibode, Adekunle</strong>, Dong Yunwei, Yang Hongji. 2024. "Software issues report for bug fixing process: An empirical study of machine-learning libraries"](https://arxiv.org/abs/2312.06005)
+ 
 
 
 
