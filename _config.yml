@@ -8,20 +8,20 @@ logo: # filename of a logo image that has been placed into your images directory
 owner:
   name: Adekunle A. Ajibode
   avatar: Newpix.jpg
-  bio: "Adekunle's research focuses on Software Engineering. He has been researching the best way to pinpoint faults in both small and large software projects without spending too much time or going through too many non-buggy faults. He has used the Genetic Algorithm to design metrics for fault localization. He has also used a Non-dominated Sorting Genetic Algorithm to assist fault localization. He is presently working on a strategy to pinpoint faults quickly in large software programs while studying the structure of the program."
+  bio: "See the Homepage."
   email: damajibode@gmail.com
   # Do not include the @ symbol in your Twitter username
   twitter: AjibodeAdekunle
   linkedin: eyinlojuoluwa
   github: eyinlojuoluwa
-  orcid: # ID Number (ex. 0000-0000-0000-0000)
+  orcid: # 0000-0002-9212-4566 (ex. 0000-0000-0000-0000)
   researchgate: Adekunle-Ajibode
   mendeley: #username
   google:
     plus: #username
     analytics:
     verify:
-    scholar: #id
+    scholar: https://scholar.google.com/citations?user=JoJ2ycAAAAAJ&hl=en&oi=ao #id
   facebook: Eyinlojuoluwa
   instagram: ilerieyinlojuoluwa
   bing-verify:
