@@ -37,7 +37,7 @@ Spectrum Based Fault Localization," in IEEE Access, vol. 8, pp. 198451-198467, 2
 
 - [<strong> Ajibode, Adekunle</strong>, Dong Yunwei, Yang Hongji. 2024. "Software issues report for bug fixing process: An empirical study of machine-learning libraries"](https://arxiv.org/abs/2312.06005)
  
-- [<strong> Ajibode, A., Bangash, A. A., Cogo, F. R., Adams, B., & Hassan, A. E. (2024). Towards Semantic Versioning of Open Pre-trained Language Model Releases on Hugging Face.](https://arxiv.org/abs/2409.10472)
+- [<strong> Ajibode, A.</strong>, Bangash, A. A., Cogo, F. R., Adams, B., & Hassan, A. E. (2024). Towards Semantic Versioning of Open Pre-trained Language Model Releases on Hugging Face.](https://arxiv.org/abs/2409.10472)
  
 
 
