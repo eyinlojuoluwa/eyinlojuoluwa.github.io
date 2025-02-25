@@ -18,9 +18,8 @@ He has been a teacher since 2005 and has mentored many students at the pre-schoo
 ## Research Interest
 My research focuses on various aspects of Software Engineering, particularly in:
 - Language Model Releases
-- Release Engineering
-- Release Management
-- Repository Mining
+- Release Engineering of AI Models
+- Repository Mining for Improving AI Model Releases
 
 
 ## Publications
