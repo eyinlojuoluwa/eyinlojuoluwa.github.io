@@ -17,7 +17,7 @@ He has been a teacher since 2005 and has mentored many students at the pre-schoo
 
 ## Research Interest
 My research focuses on various aspects of Software Engineering, particularly in:
-- Large Language Model Releases
+- Language Model Releases
 - Release Engineering
 - Release Management
 - Repository Mining
@@ -36,6 +36,8 @@ Spectrum Based Fault Localization," in IEEE Access, vol. 8, pp. 198451-198467, 2
 - [<strong> Ajibode, Adekunle</strong>, Apedo Yvon, Ajibode Temitope. 2024. "Systematic literature review on forecasting and prediction of technical debt evolution"](https://arxiv.org/abs/2406.12026)
 
 - [<strong> Ajibode, Adekunle</strong>, Dong Yunwei, Yang Hongji. 2024. "Software issues report for bug fixing process: An empirical study of machine-learning libraries"](https://arxiv.org/abs/2312.06005)
+ 
+- [<strong> Ajibode, A., Bangash, A. A., Cogo, F. R., Adams, B., & Hassan, A. E. (2024). Towards Semantic Versioning of Open Pre-trained Language Model Releases on Hugging Face.](https://arxiv.org/abs/2409.10472)
  
 
 
