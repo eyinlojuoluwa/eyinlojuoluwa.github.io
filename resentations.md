@@ -1,6 +1,6 @@
 ---
 layout: page
-layout:
+title:
 permalink: /presentations/
 ---
 
