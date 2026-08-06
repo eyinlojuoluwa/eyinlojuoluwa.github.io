@@ -4,10 +4,6 @@ title: Presentations
 permalink: /presentations/
 ---
 
-# Presentations
-
----
-
 ## Conference Presentations
 
 **Spectrum-based Fault Localization Method Using Formulas Combination**  
