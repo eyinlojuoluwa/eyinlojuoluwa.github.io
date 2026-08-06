@@ -1,23 +1,15 @@
----
-layout: page
-title: Presentations
-permalink: /presentations/
----
+# Site navigation links
+- title: Home
+  url: /
 
-# My Presentations
+- title: Presentations
+  url: /presentations/
 
-## Conference Presentations
+- title: CV
+  url: /cv/
 
-- **Spectrum-based Fault Localization Method Using Formulas Combination**  
-  *MSc Thesis Defense, Zhejiang Sci-Tech University, 2018*
+- title: Blog
+  url: /blog/
 
-- **Optimizing Release Management of NLP Models**  
-  *PhD Research, Queen's University, 2023*
-
-## Upcoming Talks
-
-- *To be announced*
-
----
-
-*Check back for updates on my latest presentations and talks.*
+- title: Workshops
+  url: /workshops/
