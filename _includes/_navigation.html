@@ -1,23 +1,23 @@
-<div class="navigation-wrapper">
-	<div class="site-name">
-		{% if site.logo %}
-		<a href="{{ site.github.url }}/"><img src="{{ site.github.url }}/images/{{ site.logo }} "></a>
-		{% else %}
-		<a href="{{ site.github.url }}/">{{ site.title }}</a>
-		{% endif %}
-	</div><!-- /.site-name -->
-	<div class="top-navigation">
-		<nav role="navigation" id="site-nav" class="nav">
-		    <ul>
-		        {% for link in site.data.navigation %}
-				    {% if link.url contains 'http' %}
-				        {% assign domain = '' %}
-				        {% else %}
-				        {% assign domain = site.github.url %}
-				    {% endif %}
-				    <li><a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank"{% endif %}>{{ link.title }}</a></li>
-				{% endfor %}
-		    </ul>
-		</nav>
-	</div><!-- /.top-navigation -->
-</div><!-- /.navigation-wrapper -->
+---
+layout: page
+title: Presentations
+permalink: /presentations/
+---
+
+# My Presentations
+
+## Conference Presentations
+
+- **Spectrum-based Fault Localization Method Using Formulas Combination**  
+  *MSc Thesis Defense, Zhejiang Sci-Tech University, 2018*
+
+- **Optimizing Release Management of NLP Models**  
+  *PhD Research, Queen's University, 2023*
+
+## Upcoming Talks
+
+- *To be announced*
+
+---
+
+*Check back for updates on my latest presentations and talks.*
