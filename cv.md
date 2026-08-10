@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CV
+title: Resume
 permalink: /cv/
 ---
 
@@ -8,13 +8,13 @@ permalink: /cv/
 PhD candidate in empirical software engineering and AI, with hands-on experience in large language models, Transformers, and model fine-tuning. Experienced in Hugging Face model releases, upstream/downstream lineage analysis, and metadata reconstruction. Interested in research, scientific, and engineering roles in AI, ML, software release engineering, and data science.
 
 ## Education
-* **Doctor of Philosophy (PhD) in Computing**, Queen's University — *2023 – Present*
-  * Thesis: An Empirical Study of Release Practices in Pre-Trained Language Models: Versioning and Synchronization
-  * Supervisor: Professor Bram Adams
-* **Master of Engineering (M.Eng.) in Computer Science and Technology**, Zhejiang Sci-Tech University, China — *2019 – 2022*
+* **Doctor of Philosophy (PhD) in Computing**, Queen's University                                                                                    *2023 – Present*
+  * Thesis: Release Practices in the AI Supply Chain: An Empirical Study of Pre-Trained Language Models on Hugging Face
+  * Supervisor: Professor Bram Adams & Professor Ahmed E. Hassan 
+* **Master of Engineering (M.Eng.) in Computer Science and Technology**, Zhejiang Sci-Tech University, China                                         *2019 – 2022*
   * Thesis: Spectrum-based Fault Localization Method Using Formulas Combination
   * Supervisor: Professor Shu Ting
-* **Bachelor of Science Education (B.Sc.Ed) in Computer Science**, Tai Solarin University of Education, Nigeria — *2010 – 2014*
+* **Bachelor of Science Education (B.Sc.Ed) in Computer Science**, Tai Solarin University of Education, Nigeria                                       *2010 – 2014*
   * Project: A real-time packet filtering module for network intrusion detection system
   * Supervisor: Dr. T.K Ogunyinka
 
@@ -25,18 +25,18 @@ PhD candidate in empirical software engineering and AI, with hands-on experience
 * **Software & Release Engineering:** Model release practices, upstream/downstream synchronization, AI model provenance tracking
 
 ## Research & Work Experience
-* **Research Assistant**, Queen's University, Canada — *Sept. 2023 – Present*
+* **Research Assistant**, Queen's University, Canada                                                                                                 *Sept. 2023 – Present*
   * Investigating automated reconstruction of LLM lineage and metadata recovery from internal model artifacts.
   * Conducting empirical studies on versioning, synchronization, and reproducibility of pre-trained language models on Hugging Face.
-* **Research Assistant**, Zhejiang Sci-Tech University, China — *Sept. 2019 – Aug. 2022*
+* **Research Assistant**, Zhejiang Sci-Tech University, China                                                                                        *Sept. 2019 – Aug. 2022*
   * Conducted research on fault localization in software using metrics combination and hybrid datasets.
-* **Teaching Assistant**, Queen's University, Canada — *Sept. 2024 – Present*
+* **Teaching Assistant**, Queen's University, Canada                                                                                                 *Sept. 2024 – Present*
   * Assisted with undergraduate computing courses, lab sessions, and grading.
 
 ## Internship Experience
-* **AI Adoption & Partnerships Intern**, Vector Institute, Canada — *Sept. – Dec. 2026*
+* **AI Adoption & Partnerships Intern**, Vector Institute, Canada                                                                                    *Sept. – Dec. 2026*
   * Supported the design and implementation of tools and processes to facilitate AI capability creation and partnership building.
 
 ## Honours & Awards
-* **Chinese Government Scholarship**, Northwestern Polytechnical University, China ($13,800/year) — *2022*
-* **Chinese Government Scholarship**, Zhejiang Sci-Tech University, China ($11,000/year) — *2019*
+* **Chinese Government Scholarship**, Northwestern Polytechnical University, China ($13,800/year)                                                          *2022*
+* **Chinese Government Scholarship**, Zhejiang Sci-Tech University, China ($11,000/year)                                                                   *2019*
