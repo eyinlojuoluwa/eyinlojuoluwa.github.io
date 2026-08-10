@@ -5,9 +5,7 @@ permalink: /publications/
 ---
 
 ## Journals
-- [(In Submission) <strong> Adekunle Ajibode </strong>, Oussama Ben Sghaier, Bram Adams, Ahmed E Hassan (2026). When Model Release Meets Model Reuse: Producer-Consumer Misalignment in Hugging Face.](https://arxiv.org/abs/2607.21738)
-  
-- [(In Submission) <strong> Adekunle Ajibode </strong>,  Oussama Ben Sghaier, Keheliya Gallaba, Bram Adams, Ahmed E Hassan (2026). Towards Imputation of Pre-Trained Language Model Metadata using Semantic Fingerprinting.](https://arxiv.org/abs/2606.21787)
+- [(Under Review) <strong> Adekunle Ajibode </strong>,  Oussama Ben Sghaier, Keheliya Gallaba, Bram Adams, Ahmed E Hassan (2026). Towards Imputation of Pre-Trained Language Model Metadata using Semantic Fingerprinting.](https://arxiv.org/abs/2606.21787)
   
 - [(EMSE) <strong> Ajibode, A.</strong>, Abdul Ali Bangash, Oussama Ben Sghaier, Bram Adams & Ahmed E. Hassan (2026). On the synchronization between Hugging Face pre-trained language models and their upstream GitHub repository.](https://arxiv.org/abs/2409.10472)
   
@@ -22,6 +20,8 @@ Spectrum Based Fault Localization," in IEEE Access, vol. 8, pp. 198451-198467, 2
  
 
 ## Conferences
+- [(Under Review) <strong> Adekunle Ajibode </strong>, Oussama Ben Sghaier, Bram Adams, Ahmed E Hassan (2026). When Model Release Meets Model Reuse: Producer-Consumer Misalignment in Hugging Face.](https://arxiv.org/abs/2607.21738)
+  
 - [(Internetware '20) Kabir Sulaiman Said, Liming Nie, <strong>Adekunle Akinjobi Ajibode</strong>, and Xueyi Zhou. 2020. GUI testing for mobile applications: objectives, approaches and challenges. In 12th Asia-Pacific Symposium on Internetware (Internetware’20), May 12–14, 2021, Singapore, Singapore. ACM, New York, NY, USA, 10 pages. https://doi.org/10.1145/3457913.3457931](https://www.researchgate.net/publication/353394632_GUI_testing_for_mobile_applications_objectives_approaches_and_challenges)
 
 ## Only pre-prints
