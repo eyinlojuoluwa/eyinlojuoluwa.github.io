@@ -16,7 +16,7 @@ permalink: /presentations/
 
 ## Poster Presentations
 
-**The chaos of LLM releases on Hugging Face: Investigating the traits and characteristics of LLM releases on Hugging Face** 
+**The chaos of LLM releases on Hugging Face: Investigating the traits and characteristics of LLM releases on Hugging Face**  
 *Poster Presentation* | Consortium for Software Engineering Research 2024 Spring Meeting (CSER), Queen's University, Canada | 2024
 
 ---
