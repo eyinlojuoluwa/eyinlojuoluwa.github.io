@@ -6,47 +6,19 @@ permalink: /presentations/
 
 ## Conference Presentations
 
-**Spectrum-based Fault Localization Method Using Formulas Combination**  
-*MSc Thesis Defense* | Zhejiang Sci-Tech University, Hangzhou, China | 2018
+**Towards Semantic Versioning of Open Pre-trained Language Models**  
+*Journal First Presentation* | ACM International Conference on the Foundations of Software Engineering (FSE), Montreal, Canada | 2026
 
-**Optimizing Release Management of Natural Language Processing Models**  
-*PhD Research Update* | Queen's University, Kingston, Canada | 2023
-
-**Mining Software Repositories for Improving AI Model Releases**  
-*MCIS/SAIL Lab Meeting* | Queen's University, Kingston, Canada | 2024
-
----
-
-## Workshops & Seminars
-
-**Release Engineering of AI Models**  
-*Workshop Presentation* | Queen's University | 2023
-
-**Data Mining Techniques in Software Engineering Research**  
-*Seminar* | Zhejiang Sci-Tech University | 2017
-
----
-
-## Invited Talks
-
-*Coming soon*
+**On the synchronization between Hugging Face pre-trained language models and their upstream GitHub repository**  
+*Journal First Presentation* | ACM International Conference on the Foundations of Software Engineering (FSE), Montreal, Canada | 2026
 
 ---
 
 ## Poster Presentations
-
-*Coming soon*
-
----
-
-## Teaching Presentations
-
-**Introduction to Computer Science**  
-*Guest Lecture* | Queen's University | 2023
-
-**Spectrum-based Fault Localization**  
-*Guest Lecture* | Zhejiang Sci-Tech University | 2018
+**The chaos of LLM releases on Hugging Face: Investigating the traits and characteristics of LLM releases on Hugging Face** 
+*Poster Presentation* | Consortium for Software Engineering Research 2024 Spring Meeting (CSER), Queen's University, Canada | 2024
 
 ---
+
 
 *For slides or additional materials, please contact me directly.*
