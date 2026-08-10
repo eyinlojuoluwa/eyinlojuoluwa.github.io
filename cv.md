@@ -17,6 +17,9 @@ PhD candidate in empirical software engineering and AI, with hands-on experience
 * **Bachelor of Science Education (B.Sc.Ed) in Computer Science**, Tai Solarin University of Education, Nigeria                                       *2010 – 2014*
   * Project: A real-time packet filtering module for network intrusion detection system
   * Supervisor: Dr. T.K Ogunyinka
+* **Nigeria Certificate in Education (NCE) in Computer Science and Mathematics**, Federal College of Education Abeokuta, Nigeria                       *2010 – 2014*
+  * Project: Impact of ICT on the academic performance of computer science students
+  * Supervisor: Mrs. Ayinde
 
 ## Skills
 * **Large Language Models & NLP:** Hugging Face Transformers, model fine-tuning and evaluation, Retrieval Augmented Generation (RAG) pipelines
