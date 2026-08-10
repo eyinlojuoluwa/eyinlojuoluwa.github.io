@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 
 ## Journals
-- [(Under Review) <strong> Adekunle Ajibode </strong>,  Oussama Ben Sghaier, Keheliya Gallaba, Bram Adams, Ahmed E Hassan (2026). Towards Imputation of Pre-Trained Language Model Metadata using Semantic Fingerprinting.](https://arxiv.org/abs/2606.21787)
+- [<strong>Under Review</strong>][<strong> Adekunle Ajibode </strong>,  Oussama Ben Sghaier, Keheliya Gallaba, Bram Adams, Ahmed E Hassan (2026). Towards Imputation of Pre-Trained Language Model Metadata using Semantic Fingerprinting.](https://arxiv.org/abs/2606.21787)
   
 - [(EMSE) <strong> Ajibode, A.</strong>, Abdul Ali Bangash, Oussama Ben Sghaier, Bram Adams & Ahmed E. Hassan (2026). On the synchronization between Hugging Face pre-trained language models and their upstream GitHub repository.](https://arxiv.org/abs/2409.10472)
   
